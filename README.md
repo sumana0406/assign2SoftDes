@@ -22,3 +22,9 @@ Telugu character that is made up of two strokes త and e sound ె.
 Therefore, in the output, you might end up seeing a number higher than the value you might be expecting.  
 
 
+-> If you wanted to find the number of digits by typing the numbers in word form like one instead of 1, 
+the program outputs the number of characters/ alphabets or special characters present. 
+So, if you want to find the number of digits please input each character in the range 0-9 instead of typing the words.
+(Since inputs other than the digits will be considered NON-NUMERICAL inputs/ VALUES. )
+
+
