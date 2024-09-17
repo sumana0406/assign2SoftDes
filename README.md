@@ -1,3 +1,5 @@
+-> This program was written in Python and hence is platform independent. 
+
 ->Although it works on other OSs too, we recommend WINDOWS.
 
 
